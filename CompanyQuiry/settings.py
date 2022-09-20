@@ -79,7 +79,7 @@ DATABASES = {
         # 用户
         'USER': 'root',
         # 密码
-        'PASSWORD': ''
+        'PASSWORD': 'Winkyqin=9149'
     }
 }
 
